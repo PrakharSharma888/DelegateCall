@@ -11,7 +11,7 @@
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/PrakharSharma888/delegatecall()?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{PrakharSharma888}}/delegatecall()?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/PrakharSharma888/delegatecall()?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/delegatecall()?color=56BEB8">
 
@@ -91,7 +91,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/PrakharSharma888" target="_blank">Prakhar Sharma</a>
 
 &#xa0;
 
