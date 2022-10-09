@@ -32,7 +32,6 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/PrakharSharma888" target="_blank">Author</a>
 </p>
 
@@ -45,7 +44,7 @@ It will contain the address of the Helper contract, and a variable called owner.
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) and [Hardhat](https://hardhat.org/) installed.
 
 ## :checkered_flag: Starting ##
 
