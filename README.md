@@ -13,10 +13,6 @@
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/PrakharSharma888/delegateCall?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/PrakharSharma888/delegateCall?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/PrakharSharma888/delegateCall?color=56BEB8">
-
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/delegatecall()?color=56BEB8" /> -->
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/delegatecall()?color=56BEB8" /> -->
@@ -46,23 +42,8 @@
 
 ## :dart: About ##
 
-Describe your project
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
-## :rocket: Technologies ##
-
-The following tools were used in this project:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+# Good.sol :
+It will contain the address of the Helper contract, and a variable called owner. The function setNum will do a delegatecall() to the Helper contract.
 
 ## :white_check_mark: Requirements ##
 
