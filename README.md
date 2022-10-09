@@ -39,6 +39,8 @@
 
 ## :dart: About ##
 
+.delegatecall() is a method in Solidity used to call a function in a target contract from an original contract. However, unlike other methods, when the function is executed in the target contract using .delegatecall(), the context is passed from the original contract i.e. the code executes in the target contract, but variables get modified in the original contract.
+
 # Good.sol :
 It will contain the address of the Helper contract, and a variable called owner. The function setNum will do a delegatecall() to the Helper contract.
 
