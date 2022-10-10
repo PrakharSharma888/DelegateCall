@@ -44,6 +44,12 @@
 # Good.sol :
 It will contain the address of the Helper contract, and a variable called owner. The function setNum will do a delegatecall() to the Helper contract.
 
+# Helper.sol :
+This is a simple contract which updates the value of num through the setNum function. Since it only has one variable, the variable will always point to Slot 0. When used with delegatecall, it will modify the value at Slot 0 of the original contract.
+
+# Attack.sol :
+This contract attacks on good.sol makes its address as the helper address in place of the actual helper contract address
+
 ## :white_check_mark: Requirements ##
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) and [Hardhat](https://hardhat.org/) installed.
